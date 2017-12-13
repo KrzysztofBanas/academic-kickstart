@@ -1,5 +1,5 @@
 baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Krzysztof Banas Homepahe"
+title = "Krzysztof Banas Homepage"
 copyright = "&copy; 2017 Krzysztof Banas"
 theme = "academic"
 enableEmoji = true
@@ -52,7 +52,7 @@ defaultContentLanguageInSubdir = false
   address = "5 Research Link, Singapore, 117605"
   office_hours = "email for appointment"
   phone = "+65 6516 7837"
-  skype = "echo123"
+  skype = "sls.kb"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -81,11 +81,11 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+  latitude = "1.2940795"
+  longitude = "103.7755477"
+  zoom = 16
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
