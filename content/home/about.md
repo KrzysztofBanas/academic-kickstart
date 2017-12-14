@@ -9,10 +9,13 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  interests = [
+  interests = ["Multivariate Statistical Analysis"
     "Fourier Transform Infrared Spectroscopy",
-    "Multivariate Statistics",
-    "Information Retrieval"
+    "R Environment",
+    "Reproducible Research",
+    "Data Visualisation"
+    "X-ray Flourescence Spectroscopy",
+    "Tomography and Imaging"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -24,12 +27,10 @@ weight = 5
 [[education.courses]]
   course = "MSc in Physics"
   institution = "Jagiellonian University, Krakow, Poland"
-  year = 1998
+  year = 1996
  
 +++
 
 # Biography
 
-I work as is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I work as beam-line scientist at Singapore Synchrotron Light Source. My research interests include application of advanced statistical methods for hyperspectral data processing (dimension reduction, clustering and identification). 
