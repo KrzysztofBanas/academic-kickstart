@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Singapore Synchrotron Light Source", url = "http://ssls.nus.edu.sg/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "kb01.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "krzysztof@nus.edu.sg"
   address = "5 Research Link, Singapore, 117605"
   office_hours = "email for appointment"
