@@ -9,11 +9,11 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  interests = ["Multivariate Statistical Analysis"
+  interests = ["Multivariate Statistical Analysis",
     "Fourier Transform Infrared Spectroscopy",
     "R Environment",
     "Reproducible Research",
-    "Data Visualisation"
+    "Data Visualisation",
     "X-ray Flourescence Spectroscopy",
     "Tomography and Imaging"
   ]
