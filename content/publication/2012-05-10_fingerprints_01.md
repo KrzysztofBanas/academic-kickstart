@@ -1,7 +1,7 @@
 +++
 title = "Detection of microscopic particles present as contaminants in latent fingerprints by means of synchrotron radiation-based Fourier transform infra-red micro-imaging"
 date = "2012-05-10"
-authors = ["A Banas", "K Banas", "M B H Breese", "J Loke", "B {Heng Teo}", "S K Lim"]
+authors = ["A Banas", "K Banas", "M B H Breese", "J Loke", "B Heng Teo", "S K Lim"]
 publication_types = ["2"]
 publication = "Analyst, (137), 15, _pp. 3459--65_, https://doi.org/10.1039/c2an35355e"
 publication_short = "Analyst, (137), 15, _pp. 3459--65_, https://doi.org/10.1039/c2an35355e"
