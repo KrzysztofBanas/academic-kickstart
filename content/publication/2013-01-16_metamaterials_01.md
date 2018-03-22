@@ -1,6 +1,6 @@
 +++
 title = "Propagation of electromagnetic fields in bulk THz metamaterials: a combined experimental and theoretical study"
-date = "2013-01-01"
+date = "2013-01-16"
 authors = ["R Alaee", "C Menzel", "A M Banas", "K Banas", "S Xu", "H Chen", "H O Moser", "F Lederer", "C Rockstuhl"]
 publication_types = ["2"]
 publication = "Physical Review B, (87), _pp. 075110_, https://doi.org/http://dx.doi.org/10.1103/PhysRevB.87.075110"
