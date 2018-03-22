@@ -1,6 +1,6 @@
 +++
 title = "Pre-processing of Fourier transform infrared spectra by means of multivariate analysis implemented in the R environment"
-date = "2015-01-01"
+date = "2015-02-17"
 authors = ["K Banas", "A Banas", "M Gajda", "B Pawlicki", "W M Kwiatek", "M B H Breese"]
 publication_types = ["2"]
 publication = "Analyst, (140), 8, _pp. 2810-2814_, https://doi.org/10.1039/c5an00002e"
