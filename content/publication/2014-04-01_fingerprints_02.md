@@ -1,6 +1,6 @@
 +++
 title = "Spectroscopic detection of exogenous materials in latent fingerprints treated with powders and lifted off with adhesive tapes"
-date = "2014-01-01"
+date = "2014-04-01"
 authors = ["A Banas", "K Banas", "M B H Breese", "J Loke", "S K Lim"]
 publication_types = ["2"]
 publication = "Analytical and Bioanalytical Chemistry, (406), 17, _pp. 4173-4181_, https://doi.org/10.1007/s00216-014-7806-8"
