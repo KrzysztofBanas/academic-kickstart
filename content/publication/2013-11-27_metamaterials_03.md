@@ -1,6 +1,6 @@
 +++
 title = "Functional multi-band THz meta-foils"
-date = "2013-01-01"
+date = "2013-11-27"
 authors = ["J Wu", "H O Moser", "S Xu", "L Jian", "A Banas", "K Banas", "H Chen", "A A Bettiol", "M B H Breese"]
 publication_types = ["2"]
 publication = "Scientific Reports, (3), _pp. 3531_, https://doi.org/10.1038/srep03531"
