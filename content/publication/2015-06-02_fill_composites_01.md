@@ -1,6 +1,6 @@
 +++
 title = "Fatigue stipulation of bulk-fill composites: An in vitro appraisal"
-date = "2015-01-01"
+date = "2015-06-02"
 authors = ["S A Vidhawan", "A U Yap", "B P Ornaghi", "A Banas", "K Banas", "J C Neo", "C S Pfeifer", "V Rosa"]
 publication_types = ["2"]
 publication = "Dental Materials, (31), _pp. 1068-1074_, https://doi.org/10.1016/j.dental.2015.06.006"
