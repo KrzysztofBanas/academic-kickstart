@@ -1,6 +1,6 @@
 +++
 title = "From polarization-dependent to polarization-independent terahertz meta-foils"
-date = "2013-01-01"
+date = "2013-10-26"
 authors = ["J Wu", "H O Moser", "S Xu", "A Banas", "K Banas", "H Chen", "M B H Breese"]
 publication_types = ["2"]
 publication = "Applied Physics Letters, (103), 19, _pp. 191114_, https://doi.org/10.1063/1.4829575"
