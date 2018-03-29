@@ -1,7 +1,7 @@
 +++
 date = 2018-03-21
 draft = false
-tags = ["photography", "synchrotron", "microscopy"]
+tags = ["photography", "synchrotron", "microscopy", "history of science"]
 title = "A colour photography pioneer comes to light thanks to the synchrotron"
 summary = """
 The colour prints of Louis Ducos du Hauron, an unknown pioneer of colour photography, have been put under the infrared and X-rays at the ESRF, the European Synchrotron (Grenoble, France) to better understand the methods he used.
