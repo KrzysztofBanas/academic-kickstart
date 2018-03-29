@@ -16,8 +16,7 @@ A collaboration was initiated by the Musée d’Orsay with the Centre de recherc
 
 The C2RMF entrusted the tiny samples to the ESRF. All the fragments provided details on the composition of the photographs with exceptional accuracy. In parallel, and to better understand the results of chemical analyses, the team reviewed the multiple letters, books and patents written by Ducos and his brother. “We were fortunate that Ducos had extensively detailed his work and reflections in his literature, and this has proved to be a mine of information to understand his processes”, explains Tiphaine Fabris, a scientist who participated in the study at the ESRF.
 
-![General principle of three-color carbon printing developed by Ducos du Hauron. Copyright: ESRF.](/img/2018-03-21-colour-photography.jpg)
-General principle of three-color carbon printing developed by Ducos du Hauron. Copyright: ESRF.
+{{< figure src="/img/2018-03-21-colour-photography.jpg" title="General principle of three-color carbon printing developed by Ducos du Hauron. Copyright: ESRF." >}}
 
 Thanks to the experiments at the ESRF, the team could identify and localise various ingredients used, such as pigments, dichromate gelatin, collodion or resin. “Our results can clearly show that Ducos du Hauron used different recipes in the prints studied. In two cases, we have an excellent agreement between a process published in 1878 and the chemical composition of fragments. It also paves the way to a larger application of synchrotron-based micro-analyses to study other early carbon-print photographs”, explains Marine Cotte, scientist in charge of the ESRF microscopy beamline and corresponding author of the article.
 
