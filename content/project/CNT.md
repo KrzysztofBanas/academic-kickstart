@@ -9,7 +9,7 @@ title = "Chemical Heterogenity of Carbon Nanotubes assemblied probed by Fourier 
 summary = "Chemical Heterogenity of Carbon Nanotubes assemblied probed by Fourier Transform Infrared and Raman spectroscopies and AFM-IR technique."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "cnt01.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "headers/cnt01.jpg"
+caption = "AFM-IR composite image of carbon nano tubes assemblies"
 
 +++
 
