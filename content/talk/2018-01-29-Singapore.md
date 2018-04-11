@@ -1,7 +1,7 @@
 +++
 date = 2018-01-01T00:00:00  # Schedule page publish date.
 
-title = "Analysis of food via FTIR spectroscopy - key aspects and challenges - spectral data processing"
+title = "Analysis of food via FTIR spectroscopy - key aspects and challenges - spectral data processing (Invited)"
 time_start = 2018-01-29T10:00:00
 time_end = 2018-01-29T10:30:00
 abstract = "Analysis of hyperspectral data sets very often requires application of repetitive procedures. Proposed solution based on the R open source Environment has a number of advantages including cost-effectiveness, transferability and scalability. Code-driven analysis complies with the reproducible research requirements. R platform can be used for the analysis of infrared spectra of various types of food samples allowing for dimension reduction, clustering and finally identification and visualization."
