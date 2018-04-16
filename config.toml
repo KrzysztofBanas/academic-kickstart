@@ -136,7 +136,7 @@ defaultContentLanguageInSubdir = false
   highlight = true
   highlight_languages = []
   # highlight_style = "github"
-
+  highlight_style = "school book"
   # Enable native social sharing buttons?
   sharing = true
 
