@@ -10,28 +10,20 @@ math = false
 +++
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## GitHub Documents
-
-This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
-
 ## Including Code
+```{r setup, include=FALSE}
+library(ggplot2)
+library(hyperSpec)
 
-You can include R code in the document as follows:
+setwd("D:/ISMI_ENVI")
+wavenumbers1 <- unlist(read.table("wavenumbers1.txt", quote="\"", comment.char=""))
+spc1 <- read.ENVI ("Hair_7v5_area1_NB_8_256S.0.img", wavelength = wavenumbers1)
+plotmap(spc1, col.regions = matlab.palette)
 
-```{r cars}
-summary(cars)
+qplotspc(mean(spc1),colour="red")+ geom_ribbon (aes (ymin = mean + sd, ymax = mean - sd, y = 0, group = NA),
+                                                alpha = 0.25,data = as.t.df (mean_sd (spc1)))+scale_x_reverse()+
+  labs(x=expression(bold(paste ("Wavenumber", " [",cm ^-1, "]"))), y = "Absorbance [a.u.]" )
+
+
+plotmap(spc1[,,1500~1400], col.regions = matlab.palette)
 ```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
