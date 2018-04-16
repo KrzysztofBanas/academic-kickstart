@@ -11,6 +11,7 @@ math = false
 
 
 ## Including Code
+
 ```{r setup, include=FALSE}
 library(ggplot2)
 library(hyperSpec)
