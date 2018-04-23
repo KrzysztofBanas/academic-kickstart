@@ -12,7 +12,7 @@ math = false
 
 ## Including Code
 
-```{r setup, include=FALSE}
+```r 
 library(ggplot2)
 library(hyperSpec)
 
