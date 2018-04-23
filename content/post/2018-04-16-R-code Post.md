@@ -11,7 +11,7 @@ math = false
 
 
 ## Including Code
-{{```r
+```{r}
 library(ggplot2)
 library(hyperSpec)
 
@@ -26,4 +26,5 @@ qplotspc(mean(spc1),colour="red")+ geom_ribbon (aes (ymin = mean + sd, ymax = me
 
 
 plotmap(spc1[,,1500~1400], col.regions = matlab.palette)
-```}}
+```
+
