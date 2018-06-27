@@ -10,8 +10,8 @@ math = false
 +++
 
 
-## Including Code
-```{r}
+## Including  R code (with no brackets around r)
+```r
 library(ggplot2)
 library(hyperSpec)
 
@@ -26,5 +26,12 @@ qplotspc(mean(spc1),colour="red")+ geom_ribbon (aes (ymin = mean + sd, ymax = me
 
 
 plotmap(spc1[,,1500~1400], col.regions = matlab.palette)
+```
+
+## Including python code
+```python
+# Example of code highlighting
+input_string_var = input("Enter some data: ")
+print("You entered: {}".format(input_string_var))
 ```
 
