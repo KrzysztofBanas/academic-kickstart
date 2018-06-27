@@ -11,7 +11,7 @@ math = false
 
 
 ## Including Code
-```{r}
+```r
 library(ggplot2)
 library(hyperSpec)
 
